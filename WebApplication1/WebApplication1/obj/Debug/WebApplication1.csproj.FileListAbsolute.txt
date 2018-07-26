@@ -1,3 +1,4 @@
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csc.exe
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
@@ -46,6 +47,5 @@ E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\We
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
-E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

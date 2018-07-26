@@ -27,7 +27,6 @@ namespace WebApplication1
     
         public virtual DbSet<Employee> Employee { get; set; }
         public virtual DbSet<User> User { get; set; }
-
-        public System.Data.Entity.DbSet<WebApplication1.Models.Membership> Memberships { get; set; }
+        public virtual DbSet<UserRole> UserRole { get; set; }
     }
 }
